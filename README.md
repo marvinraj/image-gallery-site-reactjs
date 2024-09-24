@@ -25,7 +25,7 @@ It's a very simple image gallery that displays images just like pinterest/instag
 3. work on header component
 4. work on image card componentwfwqf
 
-## My thought processes while working on this project
+## My thought processes as I work on this project
 1. how do i want this site to look like? ui inspo?
     - searched online and found pinterest and another yt vid for inspo.
 2. now how do i divide the ui into components?

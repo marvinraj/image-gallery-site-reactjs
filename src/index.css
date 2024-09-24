@@ -11,7 +11,7 @@
   --highlight-color: #C40C0C;
   --text-color: #102C57;
   --bg-color: #FEFAF6;
-  --big-font: 55px;
+  --big-font: 50px;
   --medium-font: 28px;
   --title-p-font: 16px;
 }
@@ -59,8 +59,8 @@
   font-size: var(--title-p-font);
 }
 
-.header span{
+.header h1 span{
   color: var(--highlight-color);
-  font-weight: 600;
+  font-size: 25px;
   font-style: italic;
 }

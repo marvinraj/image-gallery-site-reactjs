@@ -11,9 +11,9 @@
   --highlight-color: #C40C0C;
   --text-color: #102C57;
   --bg-color: #FEFAF6;
-  --big-font: 60px;
-  --medium-font: 45px;
-  --title-p-font: 18px;
+  --big-font: 55px;
+  --medium-font: 28px;
+  --title-p-font: 16px;
 }
 
 *::selection{
@@ -33,7 +33,7 @@
   color: var(--highlight-color);
 }
 .logo{
-  font-size: 28px;
+  font-size: var(--medium-font);
   font-weight: 400;
 }
 
@@ -48,4 +48,19 @@
   margin: auto;
   width: 50%;
   text-align: center;
+}
+
+.header h1{
+  font-size: var(--big-font);
+  font-family: 'Lora';
+}
+
+.header p{
+  font-size: var(--title-p-font);
+}
+
+.header span{
+  color: var(--highlight-color);
+  font-weight: 600;
+  font-style: italic;
 }

@@ -37,3 +37,4 @@ It's a very simple image gallery that displays images just like pinterest/instag
 5. now i cant seem to work my head around flex (which i thought i knew). "justify-content: center;
   flex-direction: column;" --> this does not work together, why?
     - [using this link to help me out](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container)
+    - [the previous link did not help, this did](https://blog.hubspot.com/website/center-div-css)

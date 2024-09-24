@@ -31,3 +31,9 @@ It's a very simple image gallery that displays images just like pinterest/instag
 2. now how do i divide the ui into components?
     - researched and found an article written by Emmanuel Fordjour Kumah.
 3. ok now time to create each components' file and work on it one by one.  
+4. started working on navbar and i already got stuck. how do i center a div? HAHAHAH
+    - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    - https://developer.mozilla.org/en-US/docs/Web/CSS/flex
+5. now i cant seem to work my head around flex (which i thought i knew). "justify-content: center;
+  flex-direction: column;" --> this does not work together, why?
+    - [using this link to help me out](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container)

@@ -38,3 +38,6 @@ It's a very simple image gallery that displays images just like pinterest/instag
   flex-direction: column;" --> this does not work together, why?
     - [using this link to help me out](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container)
     - [the previous link did not help, this did](https://blog.hubspot.com/website/center-div-css)
+6. time to add in the fonts!!
+    - fonts from google font
+    - font familiy chosen --> lato and lora

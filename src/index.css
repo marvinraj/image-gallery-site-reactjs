@@ -11,9 +11,9 @@
   --highlight-color: #C40C0C;
   --text-color: #102C57;
   --bg-color: #FEFAF6;
-  --big-font: 50px;
-  --medium-font: 28px;
-  --title-p-font: 16px;
+  --big-font: 40px;
+  --medium-font: 22px;
+  --title-p-font: 14px;
 }
 
 *::selection{
@@ -64,6 +64,8 @@ img{
 
 .header p{
   font-size: var(--title-p-font);
+  padding-top: 10px;
+  color: rgb(24, 24, 24);
 }
 
 .header h1 span{
@@ -74,7 +76,7 @@ img{
 
 /* images */
 section{
-  /* background-color: #102C57; */
+  padding-top: 50px;
 }
 
 .container{
@@ -88,7 +90,7 @@ section{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
+  gap: 16px;
 }
 
 .img-card{

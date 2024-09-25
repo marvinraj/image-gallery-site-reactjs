@@ -3,14 +3,14 @@ import image1 from "../assets/bird.jpg";
 import image2 from "../assets/views.jpg";
 import image3 from "../assets/paint.jpg";
 import image4 from "../assets/ship.jpg";
-import image5 from "../assets/ship.jpg";
-import image6 from "../assets/ship.jpg";
-import image7 from "../assets/ship.jpg";
-import image8 from "../assets/ship.jpg";
-import image9 from "../assets/ship.jpg";
-import image10 from "../assets/ship.jpg";
-import image11 from "../assets/ship.jpg";
-import image12 from "../assets/ship.jpg";
+import image5 from "../assets/duck.jpg";
+import image6 from "../assets/flower.png";
+import image7 from "../assets/forest.jpg";
+import image8 from "../assets/lost.jpg";
+import image9 from "../assets/road.jpg";
+import image10 from "../assets/roller.jpg";
+import image11 from "../assets/diver.jpg";
+import image12 from "../assets/humming.jpg";
 
 export default function ImageCard() {
   // lets first create a list of objects
@@ -38,42 +38,42 @@ export default function ImageCard() {
     {
       id: 5,
       src: image5,
-      alt: "ship",
+      alt: "duck",
     },
     {
       id: 6,
       src: image6,
-      alt: "ship",
+      alt: "flower",
     },
     {
       id: 7,
-      src: image4,
-      alt: "ship",
+      src: image7,
+      alt: "forest",
     },
     {
       id: 8,
-      src: image5,
-      alt: "ship",
+      src: image8,
+      alt: "lost",
     },
     {
       id: 9,
-      src: image6,
-      alt: "ship",
+      src: image9,
+      alt: "road",
     },
     {
       id: 10,
-      src: image4,
-      alt: "ship",
+      src: image10,
+      alt: "roller",
     },
     {
       id: 11,
-      src: image5,
-      alt: "ship",
+      src: image11,
+      alt: "diver",
     },
     {
       id: 12,
-      src: image6,
-      alt: "ship",
+      src: image12,
+      alt: "humming bird",
     },
   ];
 

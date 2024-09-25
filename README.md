@@ -41,3 +41,7 @@ It's a very simple image gallery that displays images just like pinterest/instag
 6. time to add in the fonts!!
     - fonts from google font
     - font familiy chosen --> lato and lora
+7. now, lets work on the final component
+    - first lets just display one image card
+    - damn, didnt expect displaying an image to be confusing but i got it done with the help of [this link](https://medium.com/@viditkumar.au/display-images-in-react-628e6cd4f4d8)
+    - now i need to find a way to display multiple images, i figured iterating a list/array of images would work best, this [link helped](https://www.shecodes.io/athena/38787-how-to-import-and-loop-through-local-images-in-a-react-component)

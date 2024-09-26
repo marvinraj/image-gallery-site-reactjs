@@ -13,7 +13,7 @@
   --bg-color: #FEFAF6;
   --big-font: 40px;
   --medium-font: 22px;
-  --title-p-font: 14px;
+  --small-font: 14px;
 }
 
 *::selection{
@@ -33,10 +33,12 @@ img{
   align-items: center;
   padding: 35px 45px;
 }
+
 .not-logo{
   font-weight: 900;
   color: var(--highlight-color);
 }
+
 .logo{
   font-size: var(--medium-font);
   font-weight: 400;
@@ -63,7 +65,7 @@ img{
 }
 
 .header p{
-  font-size: var(--title-p-font);
+  font-size: var(--small-font);
   padding-top: 10px;
   color: rgb(24, 24, 24);
 }
@@ -95,4 +97,24 @@ section{
 
 .img-card{
   border-radius: 15px;
+}
+
+/* footer */
+.footer{
+  padding: 60px 0;
+}
+
+.footer >*{
+  text-align: center;
+  font-weight: 400;
+}
+
+.footer h4{
+  color: var(--highlight-color);
+  font-style: italic;
+}
+
+.footer span{
+  color: var(--highlight-color);
+  font-style: italic;
 }

@@ -46,3 +46,5 @@ It's a very simple image gallery that displays images just like pinterest/instag
     - damn, didnt expect displaying an image to be confusing but i got it done with the help of [this link](https://medium.com/@viditkumar.au/display-images-in-react-628e6cd4f4d8)
     - now i need to find a way to display multiple images, i figured iterating a list/array of images would work best, this [link helped](https://www.shecodes.io/athena/38787-how-to-import-and-loop-through-local-images-in-a-react-component)
     - this [link](https://www.digitalocean.com/community/tutorials/4-uses-of-javascripts-arraymap-you-should-know) solidified my understanding on how to use .map()
+8. how do i host/deploy it on github
+    - this [link](https://medium.com/@badreddine.boudaoud21/create-a-react-app-with-vite-and-deploy-it-on-github-48b82e19f821) help

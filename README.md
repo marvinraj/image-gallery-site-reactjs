@@ -1,7 +1,7 @@
-# Image Gallery Site - ReactJS
+![alt text](src/assets/screely-1736410159869.png)
 
-## About this project
-It's a very simple image gallery that displays images just like pinterest/instagram. it consists of only one page.
+# ¬pinterest, an image gallery site
+a very simple image gallery that displays images just like pinterest/instagram built using reactjs. it consists of only one page.
 
 ## Why work on this project? 
     - practice reactjs
